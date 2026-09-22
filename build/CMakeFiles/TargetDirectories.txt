@@ -1,0 +1,3 @@
+C:/Users/ats_1/Desktop/window-aquarium/build/CMakeFiles/window-aquarium.dir
+C:/Users/ats_1/Desktop/window-aquarium/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ats_1/Desktop/window-aquarium/build/CMakeFiles/ZERO_CHECK.dir
