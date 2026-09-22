@@ -5,6 +5,12 @@ project(window-aquarium LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(window-aquarium
+if (MSVC)
+    add_compile_options(/utf-8)
+endif()
+
+add_executable(window-aquarium WIN32
     src/main.cpp
+    src/Window.cpp
+    src/Fish.cpp
 )

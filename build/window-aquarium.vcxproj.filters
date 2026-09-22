@@ -4,6 +4,12 @@
     <ClCompile Include="C:\Users\ats_1\Desktop\window-aquarium\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\ats_1\Desktop\window-aquarium\src\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats_1\Desktop\window-aquarium\src\Fish.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\ats_1\Desktop\window-aquarium\CMakeLists.txt" />
